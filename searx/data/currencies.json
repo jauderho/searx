@@ -28,29 +28,98 @@
         "birleşik arap emirlikleri dirhemi": "AED",
         "дирхам оае": "AED",
         "阿联酋迪拉姆": "AED",
-        "أفغاني": "AFN",
-        "афганистански афган": "AFN",
-        "afgani": "AFN",
-        "afghánský afghání": "AFN",
-        "afghani": "AFN",
-        "αφγάνι": "AFN",
-        "afghan afghani": "AFN",
-        "afgana afganio": "AFN",
-        "afgani afgano": "AFN",
-        "afganistani afgaani": "AFN",
-        "افغانی": "AFN",
-        "afganistanin afgaani": "AFN",
-        "אפגני": "AFN",
-        "afganistanski afgani": "AFN",
-        "afgán afgáni": "AFN",
-        "アフガニ": "AFN",
-        "afganis": "AFN",
-        "afghaanse afghani": "AFN",
-        "afegane": "AFN",
-        "афгани": "AFN",
-        "авганистански авгани": "AFN",
-        "афгані": "AFN",
-        "阿富汗尼": "AFN",
+        "أفغاني": [
+            "AFN",
+            "AFA"
+        ],
+        "афганистански афган": [
+            "AFN",
+            "AFA"
+        ],
+        "afgani": [
+            "AFN",
+            "AFA"
+        ],
+        "afghánský afghání": [
+            "AFN",
+            "AFA"
+        ],
+        "afghani": [
+            "AFN",
+            "AFA"
+        ],
+        "αφγάνι": [
+            "AFN",
+            "AFA"
+        ],
+        "afghan afghani": [
+            "AFN",
+            "AFA"
+        ],
+        "afgana afganio": [
+            "AFN",
+            "AFA"
+        ],
+        "afgani afgano": [
+            "AFN",
+            "AFA"
+        ],
+        "afganistani afgaani": [
+            "AFN",
+            "AFA"
+        ],
+        "افغانی": [
+            "AFN",
+            "AFA"
+        ],
+        "afganistanin afgaani": [
+            "AFN",
+            "AFA"
+        ],
+        "אפגני": [
+            "AFN",
+            "AFA"
+        ],
+        "afganistanski afgani": [
+            "AFN",
+            "AFA"
+        ],
+        "afgán afgáni": [
+            "AFN",
+            "AFA"
+        ],
+        "アフガニ": [
+            "AFN",
+            "AFA"
+        ],
+        "afganis": [
+            "AFN",
+            "AFA"
+        ],
+        "afghaanse afghani": [
+            "AFN",
+            "AFA"
+        ],
+        "afegane": [
+            "AFN",
+            "AFA"
+        ],
+        "афгани": [
+            "AFN",
+            "AFA"
+        ],
+        "авганистански авгани": [
+            "AFN",
+            "AFA"
+        ],
+        "афгані": [
+            "AFN",
+            "AFA"
+        ],
+        "阿富汗尼": [
+            "AFN",
+            "AFA"
+        ],
         "ليك ألباني": "ALL",
         "албански лек": "ALL",
         "lek": "ALL",
@@ -146,6 +215,7 @@
         "kvanza": "AOA",
         "angolese kwanza": "AOA",
         "ангольская кванза": "AOA",
+        "angola kwanzası": "AOA",
         "ангольська кванза": "AOA",
         "kwanza angola": "AOA",
         "安哥拉匡撒": "AOA",
@@ -399,6 +469,7 @@
         "bolgarski lev": "BGN",
         "бугарски лев": "BGN",
         "பல்கேரிய லெவ்": "BGN",
+        "bulgar levası": "BGN",
         "болгарський лев": "BGN",
         "lev bulgaria": "BGN",
         "保加利亞列弗": "BGN",
@@ -527,6 +598,7 @@
         "boliviaanse boliviano": "BOB",
         "боливиано": "BOB",
         "боливијски боливијано": "BOB",
+        "bolivya bolivyanosu": "BOB",
         "болівійський болівіано": "BOB",
         "玻利維亞玻利維亞諾": "BOB",
         "boliviano con mantenimiento de valor respecto al dólar estadounidense": "BOV",
@@ -1188,10 +1260,7 @@
         "衣索比亞比爾": "ETB",
         "يورو": "EUR",
         "евро": "EUR",
-        "euro": [
-            "HRK",
-            "EUR"
-        ],
+        "euro": "EUR",
         "ewro": "EUR",
         "ευρώ": "EUR",
         "eŭro": "EUR",
@@ -1321,7 +1390,7 @@
         "грузијски лари": "GEL",
         "georgiska lari": "GEL",
         "ஜார்ஜிய லாரி": "GEL",
-        "gürcistan larisi": "GEL",
+        "gürcü larisi": "GEL",
         "грузинський ларі": "GEL",
         "格鲁吉亚拉里": "GEL",
         "سيدي غاني": "GHS",
@@ -1372,6 +1441,7 @@
         "гибралтарска фунта": "GIP",
         "gibraltarpund": "GIP",
         "கிப்ரால்ட்டர் பவுண்டு": "GIP",
+        "cebelitarık sterlini": "GIP",
         "гібралтарський фунт": "GIP",
         "bảng gibraltar": "GIP",
         "直布羅陀鎊": "GIP",
@@ -1521,33 +1591,6 @@
         "honduras lempirası": "HNL",
         "гондураська лемпіра": "HNL",
         "宏都拉斯倫皮拉": "HNL",
-        "كونا كرواتية": "HRK",
-        "хърватска куна": "HRK",
-        "kuna": "HRK",
-        "chorvatská kuna": "HRK",
-        "kroatiske kuna": "HRK",
-        "kroatische kuna": "HRK",
-        "κούνα κροατίας": "HRK",
-        "croatian kuna": "HRK",
-        "kroata kunao": "HRK",
-        "kuna croata": "HRK",
-        "کونای کرواسی": "HRK",
-        "kroatian kuna": "HRK",
-        "kuna croate": "HRK",
-        "קונה": "HRK",
-        "hrvatska kuna": "HRK",
-        "horvát kuna": "HRK",
-        "クーナ": "HRK",
-        "kroatijos kuna": "HRK",
-        "хорватская куна": "HRK",
-        "chorvátska kuna": "HRK",
-        "hrvaška kuna": "HRK",
-        "хрватска куна": "HRK",
-        "kroatisk kuna": "HRK",
-        "குனா": "HRK",
-        "hırvat kunası": "HRK",
-        "хорватська куна": "HRK",
-        "克羅埃西亞庫納": "HRK",
         "جوردة هايتية": "HTG",
         "gourde": "HTG",
         "haitský gourde": "HTG",
@@ -1624,7 +1667,7 @@
         "இந்தோனேசிய ரூபாய்": "IDR",
         "endonezya rupiahı": "IDR",
         "індонезійська рупія": "IDR",
-        "印尼盾": "IDR",
+        "印度尼西亚卢比": "IDR",
         "شيكل إسرائيلي جديد": "ILS",
         "израелски шекел": "ILS",
         "nou xéquel": "ILS",
@@ -1664,6 +1707,7 @@
         "indiske rupier": "INR",
         "indische rupie": "INR",
         "ρουπία ινδίας": "INR",
+        "digital rupee": "INR",
         "indian rupee": "INR",
         "barata rupio": "INR",
         "rupia india": "INR",
@@ -1687,6 +1731,7 @@
         "индијска рупија": "INR",
         "indisk rupie": "INR",
         "இந்திய ரூபாய்": "INR",
+        "எண்ணிம ரூபாய்": "INR",
         "రూపాయి": "INR",
         "hindistan rupisi": "INR",
         "індійська рупія": "INR",
@@ -2023,6 +2068,7 @@
         "وون کره جنوبی": "KRW",
         "etelä korean won": "KRW",
         "won sud coréen": "KRW",
+        "וון דרום קוריאני": "KRW",
         "južnokorejski von": "KRW",
         "dél koreai von": "KRW",
         "won sudcoreano": "KRW",
@@ -2107,7 +2153,7 @@
         "kazakstanin tenge": "KZT",
         "tenge kazakh": "KZT",
         "kazahstanski tenge": "KZT",
-        "kazah tenge": "KZT",
+        "kazak tenge": "KZT",
         "tenge kazako": "KZT",
         "テンゲ": "KZT",
         "kazachstano tengė": "KZT",
@@ -2447,12 +2493,9 @@
         "makao patakası": "MOP",
         "pataca ma cao": "MOP",
         "澳門元": "MOP",
-        "ouguiya": [
-            "MRU",
-            "MRO"
-        ],
         "أوقية موريتانية": "MRU",
         "мавританска угия": "MRU",
+        "ouguiya": "MRU",
         "mauritánská ukíjá": "MRU",
         "ουγκίγια": "MRU",
         "mauritanian ouguiya": "MRU",
@@ -2670,29 +2713,98 @@
         "nijerya nairası": "NGN",
         "нігерійська найра": "NGN",
         "奈及利亞奈拉": "NGN",
-        "كوردبا نيكاراغوا": "NIO",
-        "никарагуанска кордоба": "NIO",
-        "córdoba": "NIO",
-        "nikaragujská córdoba": "NIO",
-        "córdoba oro": "NIO",
-        "κόρδοβα νικαράγουας": "NIO",
-        "nicaraguan córdoba": "NIO",
-        "nikaragva kordovo": "NIO",
-        "کوردوبای نیکاراگوئه": "NIO",
-        "cordoba": "NIO",
-        "קורדובה": "NIO",
-        "nikaragvanska kordoba": "NIO",
-        "nicaraguai córdoba": "NIO",
-        "córdoba nicaraguense": "NIO",
-        "ニカラグア・コルドバ": "NIO",
-        "nikaragvos kordoba": "NIO",
-        "nicaraguaanse córdoba": "NIO",
-        "cordoba oro": "NIO",
-        "никарагуанская кордоба": "NIO",
-        "никарагванска кордоба": "NIO",
-        "kordoba": "NIO",
-        "нікарагуанська кордоба": "NIO",
-        "尼加拉瓜科多巴": "NIO",
+        "كوردبا نيكاراغوا": [
+            "NIO",
+            "NIC"
+        ],
+        "никарагуанска кордоба": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba": [
+            "NIO",
+            "NIC"
+        ],
+        "nikaragujská córdoba": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba oro": [
+            "NIO",
+            "NIC"
+        ],
+        "κόρδοβα νικαράγουας": [
+            "NIO",
+            "NIC"
+        ],
+        "nicaraguan córdoba": [
+            "NIO",
+            "NIC"
+        ],
+        "nikaragva kordovo": [
+            "NIO",
+            "NIC"
+        ],
+        "کوردوبای نیکاراگوئه": [
+            "NIO",
+            "NIC"
+        ],
+        "cordoba": [
+            "NIO",
+            "NIC"
+        ],
+        "קורדובה": [
+            "NIO",
+            "NIC"
+        ],
+        "nikaragvanska kordoba": [
+            "NIO",
+            "NIC"
+        ],
+        "nicaraguai córdoba": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba nicaraguense": [
+            "NIO",
+            "NIC"
+        ],
+        "ニカラグア・コルドバ": [
+            "NIO",
+            "NIC"
+        ],
+        "nikaragvos kordoba": [
+            "NIO",
+            "NIC"
+        ],
+        "nicaraguaanse córdoba": [
+            "NIO",
+            "NIC"
+        ],
+        "cordoba oro": [
+            "NIO",
+            "NIC"
+        ],
+        "никарагуанская кордоба": [
+            "NIO",
+            "NIC"
+        ],
+        "никарагванска кордоба": [
+            "NIO",
+            "NIC"
+        ],
+        "kordoba": [
+            "NIO",
+            "NIC"
+        ],
+        "нікарагуанська кордоба": [
+            "NIO",
+            "NIC"
+        ],
+        "尼加拉瓜科多巴": [
+            "NIO",
+            "NIC"
+        ],
         "كرونة نروجية": "NOK",
         "норвежка крона": "NOK",
         "corona noruega": "NOK",
@@ -2849,7 +2961,7 @@
         "סול": "PEN",
         "peruanski novi sol": "PEN",
         "perui sol": "PEN",
-        "nuevo sol peruviano": "PEN",
+        "sol peruviano": "PEN",
         "ヌエボ・ソル": "PEN",
         "naujasis solis": "PEN",
         "peruviaanse sol": "PEN",
@@ -2937,32 +3049,114 @@
         "пакистанська рупія": "PKR",
         "rupee pakistan": "PKR",
         "巴基斯坦盧比": "PKR",
-        "زلوتي بولندي": "PLN",
-        "полска злота": "PLN",
-        "złoty": "PLN",
-        "zlotý": "PLN",
-        "polske zloty": "PLN",
-        "ζλότι": "PLN",
-        "polish złoty": "PLN",
-        "zloto": "PLN",
-        "esloti": "PLN",
-        "poola zlott": "PLN",
-        "زلوتی لهستان": "PLN",
-        "puolan zloty": "PLN",
-        "זלוטי": "PLN",
-        "poljski zlot": "PLN",
-        "lengyel złoty": "PLN",
-        "ズウォティ": "PLN",
-        "zlotas": "PLN",
-        "poolse złoty": "PLN",
-        "zlot polonez": "PLN",
-        "польский злотый": "PLN",
-        "poľský zlotý": "PLN",
-        "пољски злот": "PLN",
-        "ஸ்வாட்டெ": "PLN",
-        "злотий": "PLN",
-        "złoty ba lan": "PLN",
-        "波兰兹罗提": "PLN",
+        "زلوتي بولندي": [
+            "PLZ",
+            "PLN"
+        ],
+        "полска злота": [
+            "PLZ",
+            "PLN"
+        ],
+        "złoty": [
+            "PLZ",
+            "PLN"
+        ],
+        "zlotý": [
+            "PLZ",
+            "PLN"
+        ],
+        "polske zloty": [
+            "PLZ",
+            "PLN"
+        ],
+        "ζλότι": [
+            "PLZ",
+            "PLN"
+        ],
+        "polish złoty": [
+            "PLZ",
+            "PLN"
+        ],
+        "zloto": [
+            "PLZ",
+            "PLN"
+        ],
+        "esloti": [
+            "PLZ",
+            "PLN"
+        ],
+        "poola zlott": [
+            "PLZ",
+            "PLN"
+        ],
+        "زلوتی لهستان": [
+            "PLZ",
+            "PLN"
+        ],
+        "puolan zloty": [
+            "PLZ",
+            "PLN"
+        ],
+        "זלוטי": [
+            "PLZ",
+            "PLN"
+        ],
+        "poljski zlot": [
+            "PLZ",
+            "PLN"
+        ],
+        "lengyel złoty": [
+            "PLZ",
+            "PLN"
+        ],
+        "ズウォティ": [
+            "PLZ",
+            "PLN"
+        ],
+        "zlotas": [
+            "PLZ",
+            "PLN"
+        ],
+        "poolse złoty": [
+            "PLZ",
+            "PLN"
+        ],
+        "zlot polonez": [
+            "PLZ",
+            "PLN"
+        ],
+        "польский злотый": [
+            "PLZ",
+            "PLN"
+        ],
+        "poľský zlotý": [
+            "PLZ",
+            "PLN"
+        ],
+        "пољски злот": [
+            "PLZ",
+            "PLN"
+        ],
+        "ஸ்வாட்டெ": [
+            "PLZ",
+            "PLN"
+        ],
+        "polonya zlotisi": [
+            "PLZ",
+            "PLN"
+        ],
+        "злотий": [
+            "PLZ",
+            "PLN"
+        ],
+        "złoty ba lan": [
+            "PLZ",
+            "PLN"
+        ],
+        "波兰兹罗提": [
+            "PLZ",
+            "PLN"
+        ],
         "غواراني باراغواي": "PYG",
         "guaraní": "PYG",
         "paraguayský guaraní": "PYG",
@@ -2999,7 +3193,7 @@
         "ריאל קטרי": "QAR",
         "katarski rijal": "QAR",
         "katari riál": "QAR",
-        "riyal del qatar": "QAR",
+        "riyal qatariota": "QAR",
         "カタール・リヤル": "QAR",
         "kataro rialas": "QAR",
         "qatarese rial": "QAR",
@@ -3341,28 +3535,94 @@
         "saint helena sterlini": "SHP",
         "фунт святої єлени": "SHP",
         "圣赫勒拿镑": "SHP",
-        "ليون سيراليوني": "SLL",
-        "леоне на сиера леоне": "SLL",
-        "leone": "SLL",
-        "sierraleonský leone": "SLL",
-        "sierra leonischer leone": "SLL",
-        "λεόνε της σιέρα λεόνε": "SLL",
-        "sierra leonean leone": "SLL",
-        "sieraleona leono": "SLL",
-        "لئون سیرالئون": "SLL",
-        "sierra leonen leone": "SLL",
-        "ליאון": "SLL",
-        "sijeraleonski leone": "SLL",
-        "sierra leone i leone": "SLL",
-        "leone sierraleonese": "SLL",
-        "レオン": "SLL",
-        "leonė": "SLL",
-        "sierra leoonse leone": "SLL",
-        "леоне": "SLL",
-        "сијералеонски леоне": "SLL",
-        "sierra leone leonesi": "SLL",
-        "леоне сьєрра леоне": "SLL",
-        "塞拉利昂利昂": "SLL",
+        "ليون سيراليوني": [
+            "SLL",
+            "SLE"
+        ],
+        "леоне на сиера леоне": [
+            "SLL",
+            "SLE"
+        ],
+        "leone": [
+            "SLL",
+            "SLE"
+        ],
+        "sierraleonský leone": [
+            "SLL",
+            "SLE"
+        ],
+        "sierra leonischer leone": [
+            "SLL",
+            "SLE"
+        ],
+        "λεόνε της σιέρα λεόνε": [
+            "SLL",
+            "SLE"
+        ],
+        "sierra leonean leone": [
+            "SLL",
+            "SLE"
+        ],
+        "sieraleona leono": [
+            "SLL",
+            "SLE"
+        ],
+        "لئون سیرالئون": [
+            "SLL",
+            "SLE"
+        ],
+        "sierra leonen leone": [
+            "SLL",
+            "SLE"
+        ],
+        "ליאון": [
+            "SLL",
+            "SLE"
+        ],
+        "sijeraleonski leone": [
+            "SLL",
+            "SLE"
+        ],
+        "sierra leone i leone": [
+            "SLL",
+            "SLE"
+        ],
+        "leone sierraleonese": [
+            "SLL",
+            "SLE"
+        ],
+        "レオン": [
+            "SLL",
+            "SLE"
+        ],
+        "leonė": [
+            "SLL",
+            "SLE"
+        ],
+        "sierra leoonse leone": [
+            "SLL",
+            "SLE"
+        ],
+        "леоне": [
+            "SLL",
+            "SLE"
+        ],
+        "сијералеонски леоне": [
+            "SLL",
+            "SLE"
+        ],
+        "sierra leone leonesi": [
+            "SLL",
+            "SLE"
+        ],
+        "леоне сьєрра леоне": [
+            "SLL",
+            "SLE"
+        ],
+        "塞拉利昂利昂": [
+            "SLL",
+            "SLE"
+        ],
         "شلن صومالي": "SOS",
         "сомалийски шилинг": "SOS",
         "xíling somali": "SOS",
@@ -3535,6 +3795,7 @@
         "тайский бат": "THB",
         "тајландски бат": "THB",
         "தாய்லாந்தின் பாட்": "THB",
+        "tayland bahtı": "THB",
         "тайський бат": "THB",
         "泰銖": "THB",
         "ساماني طاجيكي": "TJS",
@@ -3642,27 +3903,21 @@
         "lira turca": "TRY",
         "turecká lira": "TRY",
         "lira twrcaidd": "TRY",
-        "lira twrcaidd newydd": "TRY",
         "tyrkisk lira": "TRY",
         "türkische lira": "TRY",
         "τουρκική λίρα": "TRY",
-        "revaluation of the turkish lira": "TRY",
         "turkish lira": "TRY",
         "turka liro": "TRY",
         "türgi liir": "TRY",
         "turkiar lira": "TRY",
-        "افزایش ارزش لیر ترکیه": "TRY",
         "لیره ترک": "TRY",
         "turkin liira": "TRY",
-        "uusi turkin liira": "TRY",
         "livre turque": "TRY",
         "לירה טורקית": "TRY",
         "turska lira": "TRY",
         "török líra": "TRY",
         "トルコリラ": "TRY",
-        "新トルコリラ": "TRY",
         "naujoji turkijos lira": "TRY",
-        "nieuwe turkse lira": "TRY",
         "turkse lira": "TRY",
         "lira turecka": "TRY",
         "liră turcească": "TRY",
@@ -3671,11 +3926,9 @@
         "turkisk lira": "TRY",
         "துருக்கிய லிரா": "TRY",
         "türk lirası": "TRY",
-        "yeni türk lirası": "TRY",
         "турецька ліра": "TRY",
         "lira thổ nhĩ kỳ": "TRY",
         "土耳其里拉": "TRY",
-        "土耳其里拉币制改革": "TRY",
         "دولار ترينيداد وتوباغو": "TTD",
         "долар на тринидад и тобаго": "TTD",
         "dòlar de trinitat i tobago": "TTD",
@@ -3782,7 +4035,7 @@
         "grivnia ucraina": "UAH",
         "フリヴニャ": "UAH",
         "grivina": "UAH",
-        "oekraïense grivna": "UAH",
+        "oekraïense hryvnia": "UAH",
         "hrywna": "UAH",
         "grívnia": "UAH",
         "grivnă": "UAH",
@@ -3918,19 +4171,34 @@
         "özbekistan somu": "UZS",
         "узбецький сум": "UZS",
         "乌兹别克斯坦索姆": "UZS",
-        "bolivar fuerte": "VEF",
-        "venezuelanski bolivar fuerte": "VEF",
+        "sovereign bolivar": [
+            "VES",
+            "VED"
+        ],
+        "bolívar soberano": [
+            "VES",
+            "VED"
+        ],
+        "bolivar souverain": [
+            "VES",
+            "VED"
+        ],
         "venezuelai bolívar": [
             "VES",
-            "VEF"
+            "VED"
         ],
-        "venesuelos fuerte bolivaras": "VEF",
-        "sovereign bolivar": "VES",
-        "bolívar soberano": "VES",
-        "bolivar souverain": "VES",
-        "ボリバル・ソベラノ": "VES",
-        "суверенный боливар": "VES",
-        "суверенний болівар": "VES",
+        "ボリバル・ソベラノ": [
+            "VES",
+            "VED"
+        ],
+        "суверенный боливар": [
+            "VES",
+            "VED"
+        ],
+        "суверенний болівар": [
+            "VES",
+            "VED"
+        ],
         "دونغ فيتنامي": "VND",
         "виетнамски донг": "VND",
         "dong": "VND",
@@ -3994,7 +4262,7 @@
         "самоанска тала": "WST",
         "самоанська тала": "WST",
         "薩摩亞塔拉": "WST",
-        "فرنك وسط أفريقي": "XAF",
+        "فرنك وسط إفريقي": "XAF",
         "централноафрикански cfa франк": "XAF",
         "franc cfa de l'àfrica central": "XAF",
         "středoafrický frank": "XAF",
@@ -4012,12 +4280,29 @@
         "franc cfa d'africa centrala": "XAF",
         "franco cfa da áfrica central": "XAF",
         "franc cfa beac": "XAF",
-        "центральноафриканский франк кфа": "XAF",
+        "центральноафриканский франк": "XAF",
         "stredoafrický frank": "XAF",
         "orta afrika cfa frangı": "XAF",
         "центральноафриканський франк": "XAF",
         "franc cfa trung phi": "XAF",
         "中非金融合作法郎": "XAF",
+        "investiční stříbro": "XAG",
+        "silberpreis": "XAG",
+        "silver as an investment": "XAG",
+        "plata como inversión": "XAG",
+        "silver som investering": "XAG",
+        "bạc trong đầu tư": "XAG",
+        "استثمار الذهب": "XAU",
+        "investiční zlato": "XAU",
+        "gold als kapitalanlage": "XAU",
+        "gold as an investment": "XAU",
+        "kulta sijoituksena": "XAU",
+        "or d'investissement": "XAU",
+        "befektetési arany": "XAU",
+        "金投資": "XAU",
+        "investeringsguld": "XAU",
+        "kênh đầu tư vàng": "XAU",
+        "黃金投資": "XAU",
         "دولار شرق الكاريبي": "XCD",
         "източнокарибски долар": "XCD",
         "dòlar del carib oriental": "XCD",
@@ -4077,32 +4362,7 @@
         "спеціальні права запозичення": "XDR",
         "quyền rút vốn đặc biệt": "XDR",
         "特别提款权": "XDR",
-        "وحدة العملة الأوروبية": "XEU",
-        "екю": "XEU",
-        "unitat monetària europea": "XEU",
-        "evropská měnová jednotka": "XEU",
-        "european currency unit": "XEU",
-        "europäische währungseinheit": "XEU",
-        "ευρωπαϊκή λογιστική μονάδα": "XEU",
-        "unidad monetaria europea": "XEU",
-        "euroopa valuutaühik": "XEU",
-        "europako kontu unitate": "XEU",
-        "واحد ارزی اروپا": "XEU",
-        "euroopan valuuttayksikkö": "XEU",
-        "ecu": "XEU",
-        "יחידת מטבע אירופית": "XEU",
-        "európai valutaegység": "XEU",
-        "unità di conto europea": "XEU",
-        "欧州通貨単位": "XEU",
-        "ekiu": "XEU",
-        "europese rekeneenheid": "XEU",
-        "unidade monetária europeia": "XEU",
-        "экю": "XEU",
-        "európska menová jednotka": "XEU",
-        "europeiska valutaenheten": "XEU",
-        "avrupa para birimi": "XEU",
-        "欧洲货币单位": "XEU",
-        "فرنك غرب أفريقي": "XOF",
+        "فرنك غرب إفريقي": "XOF",
         "западноафрикански cfa франк": "XOF",
         "franc cfa de l'àfrica occidental": "XOF",
         "cfa franc bceao": "XOF",
@@ -4115,12 +4375,14 @@
         "franc cfa d'africa occidentala": "XOF",
         "franco cfa da áfrica ocidental": "XOF",
         "franc cfa bceao": "XOF",
-        "западноафриканский франк кфа": "XOF",
+        "западноафриканский франк": "XOF",
         "západoafrický frank": "XOF",
         "batı afrika cfa frangı": "XOF",
         "західноафриканський франк": "XOF",
         "franc cfa tây phi": "XOF",
         "非洲金融共同体法郎": "XOF",
+        "palladiumpreis": "XPD",
+        "palladium as an investment": "XPD",
         "فرنك س ف ب": "XPF",
         "franc cfp": "XPF",
         "cfp frank": "XPF",
@@ -4141,6 +4403,8 @@
         "cfp frangı": "XPF",
         "французький тихоокеанський франк": "XPF",
         "太平洋法郎": "XPF",
+        "platinpreis": "XPT",
+        "platinum as an investment": "XPT",
         "sucre": "XSU",
         "sistema unificato di compensazione regionale": "XSU",
         "域内統一決済システム": "XSU",
@@ -4173,7 +4437,7 @@
         "yemen riyali": "YER",
         "єменський ріал": "YER",
         "葉門里亞爾": "YER",
-        "راند جنوب أفريقي": "ZAR",
+        "راند جنوب إفريقي": "ZAR",
         "южноафрикански ранд": "ZAR",
         "rand": "ZAR",
         "jihoafrický rand": "ZAR",
@@ -4222,13 +4486,15 @@
         "замбийская квача": "ZMW",
         "замбијска квача": "ZMW",
         "zambisk kwacha": "ZMW",
-        "zambiya kwachası": "ZMW",
+        "zambiya kvaçası": "ZMW",
         "замбійська квача": "ZMW",
         "尚比亞克瓦查": "ZMW",
-        "real time gross settlement dollar": "ZWL",
+        "zimbabwean dollar": "ZWL",
         "dólar rtgs": "ZWL",
+        "real time gross settlement dollar": "ZWL",
         "dollaro rtgs": "ZWL",
         "rtgsドル": "ZWL",
+        "dólar do zimbábue": "ZWL",
         "即時總額清算元": "ZWL",
         "درهم": "AED",
         "DH": [
@@ -4289,29 +4555,98 @@
         "迪拉姆": "AED",
         "迪爾汗": "AED",
         "阿聯酋迪拉姆": "AED",
-        "؋": "AFN",
-        "Afs": "AFN",
-        "afghání": "AFN",
-        "afn": "AFN",
-        "af": "AFN",
-        "afg": "AFN",
-        "afgaani": "AFN",
-        "afganistani afgaan": "AFN",
-        "uus afgaani": "AFN",
-        "افغانی افغانستان": "AFN",
-        "afgani afgán": "AFN",
-        "afghani afgano": "AFN",
-        "afghanis": "AFN",
-        "afegani": "AFN",
-        "novo afegani": "AFN",
-        "afgan afgan": "AFN",
-        "афганистанский афгани": "AFN",
-        "афганский афгани": "AFN",
-        "валюта афганистана": "AFN",
-        "afganistanski afgan": "AFN",
-        "авганистански афган": "AFN",
-        "ஆப்கான் ஆப்கானி": "AFN",
-        "阿富汗阿富汗尼": "AFN",
+        "؋": [
+            "AFN",
+            "AFA"
+        ],
+        "Afs": [
+            "AFN",
+            "AFA"
+        ],
+        "afghání": [
+            "AFN",
+            "AFA"
+        ],
+        "afn": [
+            "AFN",
+            "AFA"
+        ],
+        "af": [
+            "AFN",
+            "AFA"
+        ],
+        "afg": [
+            "AFN",
+            "AFA"
+        ],
+        "afgaani": [
+            "AFN",
+            "AFA"
+        ],
+        "afganistani afgaan": [
+            "AFN",
+            "AFA"
+        ],
+        "uus afgaani": [
+            "AFN",
+            "AFA"
+        ],
+        "افغانی افغانستان": [
+            "AFN",
+            "AFA"
+        ],
+        "afgani afgán": [
+            "AFN",
+            "AFA"
+        ],
+        "afghani afgano": [
+            "AFN",
+            "AFA"
+        ],
+        "afghanis": [
+            "AFN",
+            "AFA"
+        ],
+        "afegani": [
+            "AFN",
+            "AFA"
+        ],
+        "novo afegani": [
+            "AFN",
+            "AFA"
+        ],
+        "afgan afgan": [
+            "AFN",
+            "AFA"
+        ],
+        "афганистанский афгани": [
+            "AFN",
+            "AFA"
+        ],
+        "афганский афгани": [
+            "AFN",
+            "AFA"
+        ],
+        "валюта афганистана": [
+            "AFN",
+            "AFA"
+        ],
+        "afganistanski afgan": [
+            "AFN",
+            "AFA"
+        ],
+        "авганистански афган": [
+            "AFN",
+            "AFA"
+        ],
+        "ஆப்கான் ஆப்கானி": [
+            "AFN",
+            "AFA"
+        ],
+        "阿富汗阿富汗尼": [
+            "AFN",
+            "AFA"
+        ],
         "L": [
             "MDL",
             "HNL",
@@ -4319,8 +4654,8 @@
         ],
         "лек": "ALL",
         "qindarka": "ALL",
-        "leko": "ALL",
         "all": "ALL",
+        "leko": "ALL",
         "lek albanes": "ALL",
         "albaania lek": "ALL",
         "lek albanais": "ALL",
@@ -4393,7 +4728,6 @@
         "анголска нова кванза": "AOA",
         "kwansa": "AOA",
         "அங்கோலா குவான்சா": "AOA",
-        "angola kwanzası": "AOA",
         "安哥拉寬扎": "AOA",
         "寬扎": "AOA",
         "$": [
@@ -4566,6 +4900,7 @@
         "gepik": "AZN",
         "qäpik": "AZN",
         "qəpik": "AZN",
+        "azerbaijan manat": "AZN",
         "azm": "AZN",
         "manat azeri": "AZN",
         "manat azerí": "AZN",
@@ -4654,6 +4989,8 @@
         "dolar de barbados": "BBD",
         "dolar barbadense": "BBD",
         "dollar de la barbade": "BBD",
+        "bbd$": "BBD",
+        "bds": "BBD",
         "dollaro": [
             "BZD",
             "BBD"
@@ -4710,7 +5047,6 @@
         "bulgariska lev": "BGN",
         "bulgariska leva": "BGN",
         "பல்காரிய லெவ்": "BGN",
-        "bulgar levası": "BGN",
         "bulgar levi": "BGN",
         "лв": "BGN",
         "الدينار البحريني": "BHD",
@@ -4844,6 +5180,8 @@
         "bolivya bolivianosu": "BOB",
         "болівіано": "BOB",
         "玻利維亞諾": "BOB",
+        "mvdol": "BOV",
+        "bov": "BOV",
         "boliviano con mantenimiento de valor respecto al dolar estadounidense": "BOV",
         "R$": "BRL",
         "r$": "BRL",
@@ -4938,6 +5276,7 @@
         "валюта ботсваны": "BWP",
         "botswansk pula": "BWP",
         "போட்ஸ்வானா பூலா": "BWP",
+        "валюта ботсвани": "BWP",
         "Br": [
             "ETB",
             "BYN"
@@ -4985,6 +5324,7 @@
         "الدولار الكندي": "CAD",
         "c$": [
             "NIO",
+            "NIC",
             "CAD"
         ],
         "dòlar de canadà": "CAD",
@@ -5008,6 +5348,7 @@
         "$can": "CAD",
         "$ca": "CAD",
         "huard canadien": "CAD",
+        "cdn$": "CAD",
         "カナダ・ドル": "CAD",
         "加ドル": "CAD",
         "dólar canadiano": "CAD",
@@ -5031,6 +5372,7 @@
         "加幣": "CAD",
         "C$": [
             "NIO",
+            "NIC",
             "CAD"
         ],
         "CAD$": "CAD",
@@ -5065,6 +5407,8 @@
         "франк бельгийского конго": "CDF",
         "франк дрк": "CDF",
         "kongo frankı": "CDF",
+        "wir euro": "CHE",
+        "che": "CHE",
         "الفرنك السويسري": "CHF",
         "Fr": "CHF",
         "chf": "CHF",
@@ -5427,6 +5771,7 @@
         "punt yr aifft": "EGP",
         "le": [
             "SLL",
+            "SLE",
             "EGP"
         ],
         "egyptiske pund": "EGP",
@@ -5434,9 +5779,6 @@
         "guinee": "EGP",
         "l.e.": "EGP",
         "£e": "EGP",
-        "d.r.": "EGP",
-        "dr": "EGP",
-        "d£": "EGP",
         "egp": "EGP",
         "egiptoar libera": "EGP",
         "livre egyptienne": "EGP",
@@ -5531,6 +5873,7 @@
         "dollar des îles fidji": "FJD",
         "dollar fidjien": "FJD",
         "דולר פיג'י": "FJD",
+        "fj$": "FJD",
         "dólar das fiji": "FJD",
         "dolarul fijian": "FJD",
         "фиджийский доллар": "FJD",
@@ -5692,7 +6035,7 @@
         "тетри": "GEL",
         "சியார்சிய லாரி": "GEL",
         "ஜோர்ஜிய லாரி": "GEL",
-        "gürcü larisi": "GEL",
+        "gürcistan larisi": "GEL",
         "ларі": "GEL",
         "拉里": "GEL",
         "₵": "GHS",
@@ -5827,34 +6170,6 @@
         "валюта гондураса": "HNL",
         "хондурашка лемпира": "HNL",
         "伦皮拉": "HNL",
-        "kn": "HRK",
-        "hrk": "HRK",
-        "lipa": "HRK",
-        "kuna croatia": "HRK",
-        "κούνα": "HRK",
-        "κροατική κούνα": "HRK",
-        "kroatia kunao": "HRK",
-        "kunao": "HRK",
-        "lipao": "HRK",
-        "cuna croata": "HRK",
-        "horvaatia kuna": "HRK",
-        "کونا": "HRK",
-        "ליפה": "HRK",
-        "クロアチアの通貨": "HRK",
-        "クロアチア・クナ": "HRK",
-        "クロアチア・クーナ": "HRK",
-        "kuna chorwacka": "HRK",
-        "kuny": "HRK",
-        "lipy": "HRK",
-        "kuna da croácia": "HRK",
-        "валюта хорватии": "HRK",
-        "куна": "HRK",
-        "липа": "HRK",
-        "குரோவாசிய குனா": "HRK",
-        "குரோஷிய குனா": "HRK",
-        "hırvatistan kunası": "HRK",
-        "куна хорватська": "HRK",
-        "庫納": "HRK",
         "Gde.": "HTG",
         "gde.": "HTG",
         "haitianische gourde": "HTG",
@@ -5947,9 +6262,9 @@
             "IDR"
         ],
         "rupiah indonesia": "IDR",
+        "印尼盾": "IDR",
         "印尼卢比": "IDR",
         "印尼盧比": "IDR",
-        "印度尼西亚卢比": "IDR",
         "印度尼西亞盧比": "IDR",
         "الشيكل الإسرائيلي الجديد": "ILS",
         "₪": "ILS",
@@ -6041,6 +6356,8 @@
         "новий ізраїльський шекель": "ILS",
         "新舍客勒": "ILS",
         "新謝克爾": "ILS",
+        "e rupee": "INR",
+        "e₹": "INR",
         "الروبية الهندية": "INR",
         "₹": "INR",
         "روبي هندية": "INR",
@@ -6217,10 +6534,14 @@
         "日本円": "JPY",
         "yeni": "JPY",
         "японская иена": "JPY",
+        "日元": "JPY",
+        "日幣": "JPY",
         "日本元": "JPY",
+        "日本圓": "JPY",
         "شيلينغ كينيي": "KES",
         "Ksh": "KES",
         "xíling de kenya": "KES",
+        "swllt cenia": "KES",
         "σελλίνι της κένυας": "KES",
         "shilling": "KES",
         "chelin keniano": "KES",
@@ -6322,7 +6643,6 @@
         "jeon": "KRW",
         "lõuna korea won": "KRW",
         "وون کرهٔ جنوبی": "KRW",
-        "וון דרום קוריאני": "KRW",
         "韓国ウォン": "KRW",
         "won sud corean": "KRW",
         "валюта республики корея": "KRW",
@@ -6393,6 +6713,7 @@
         "تنگه": "KZT",
         "tengue": "KZT",
         "טנגה": "KZT",
+        "kazah tenge": "KZT",
         "kazachijos tengė": "KZT",
         "tengė": "KZT",
         "tenge kazachski": "KZT",
@@ -6516,16 +6837,18 @@
         "δολλάριο λιβερίας": "LRD",
         "dolar liberiano": "LRD",
         "dollar liberien": "LRD",
+        "l$": "LRD",
+        "ld$": "LRD",
+        "lrd": "LRD",
         "リベリアドル": "LRD",
         "dolar liberian": "LRD",
         "валюта либерии": "LRD",
-        "l$": "LRD",
-        "lrd": "LRD",
         "liberisk dollar": "LRD",
         "L$": "LRD",
         "لوتي": "LSL",
         "M": "LSL",
         "lisente": "LSL",
+        "lsl": "LSL",
         "loti lesothan": "LSL",
         "לוטי": "LSL",
         "לוטי לסוטו": "LSL",
@@ -6539,7 +6862,6 @@
             "RON",
             "LSL"
         ],
-        "lsl": "LSL",
         "m": "LSL",
         "lesoto lotisi": "LSL",
         "лоті": "LSL",
@@ -6591,12 +6913,12 @@
         "moldovos lėja": "MDL",
         "lej mołdawski": "MDL",
         "leu da moldávia": "MDL",
-        "leul moldovenesc": "MDL",
         "lei": [
             "RON",
             "MDL"
         ],
         "lei moldovenești": "MDL",
+        "leul moldovenesc": "MDL",
         "валюта молдавии": "MDL",
         "лей": [
             "RON",
@@ -6744,13 +7066,8 @@
         "澳门币": "MOP",
         "葡币": "MOP",
         "葡幣": "MOP",
-        "أ.م.": "MRO",
-        "mro": "MRO",
-        "UM": [
-            "MRU",
-            "MRO"
-        ],
         "أوقية": "MRU",
+        "UM": "MRU",
         "أوقيه موريتانيه": "MRU",
         "الأوقية الموريتانية": "MRU",
         "العملة الموريتانية": "MRU",
@@ -6758,6 +7075,7 @@
         "khoum": "MRU",
         "uqiya": "MRU",
         "μαυριτανική ουγκίγια": "MRU",
+        "mru": "MRU",
         "um": "MRU",
         "uguijao": "MRU",
         "ĥumo": "MRU",
@@ -6773,7 +7091,6 @@
         "валюта мавритании": "MRU",
         "мауританска угља": "MRU",
         "mauretansk ouguiya": "MRU",
-        "mru": "MRU",
         "moritanya ouguiyası": "MRU",
         "moritanya ugiyası": "MRU",
         "ougiya": "MRU",
@@ -6817,10 +7134,10 @@
             "ZMW",
             "MWK"
         ],
+        "mwk": "MWK",
         "kwacha malaui": "MWK",
         "kwacha malawite": "MWK",
         "kwacha del malawi": "MWK",
-        "mwk": "MWK",
         "malawiaanse kwacha": "MWK",
         "kwacha do malaui": "MWK",
         "kwacha do malauí": "MWK",
@@ -6949,36 +7266,130 @@
         "ngn": "NGN",
         "奈拉": "NGN",
         "尼日利亚奈拉": "NGN",
-        "كوردوبا نيكاراجوي": "NIO",
-        "córdoba nicaragüenc": "NIO",
-        "córdoba nicaragüenca": "NIO",
-        "nicaraguanischer córdoba": "NIO",
-        "mariana montserrat": "NIO",
-        "nicaraguan cordoba": "NIO",
-        "cordoba nicaraguense": "NIO",
-        "cordoba nicaragüense": "NIO",
-        "córdoba nicaragüense": "NIO",
-        "کوردوبا نیکاراگوئه": "NIO",
-        "cordoba nicaraguayen": "NIO",
-        "córdoba nicaraguayen": "NIO",
-        "córdoba nicaraguéen": "NIO",
-        "nikaragvanska córdoba": "NIO",
-        "100ドル紙幣": "NIO",
-        "コルドバ・オロ": "NIO",
-        "nicaraguaanse cordoba": "NIO",
-        "córdoba ouro": "NIO",
-        "córdoba nicaraguano": "NIO",
-        "nio": "NIO",
-        "валюта никарагуа": "NIO",
-        "золотая кордоба": "NIO",
-        "кордоба": "NIO",
-        "кордобас": "NIO",
-        "новая никарагуанская кордоба": "NIO",
-        "никарагванска златна кордоба": "NIO",
-        "никарагванска кордоба оро": "NIO",
-        "nicaraguansk córdoba": "NIO",
-        "nikaragua kordobası": "NIO",
-        "нікарагуанська кордова": "NIO",
+        "كوردوبا نيكاراجوي": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba nicaragüenc": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba nicaragüenca": [
+            "NIO",
+            "NIC"
+        ],
+        "nicaraguanischer córdoba": [
+            "NIO",
+            "NIC"
+        ],
+        "mariana montserrat": [
+            "NIO",
+            "NIC"
+        ],
+        "nic": [
+            "NIO",
+            "NIC"
+        ],
+        "nio": [
+            "NIO",
+            "NIC"
+        ],
+        "nicaraguan cordoba": [
+            "NIO",
+            "NIC"
+        ],
+        "cordoba nicaraguense": [
+            "NIO",
+            "NIC"
+        ],
+        "cordoba nicaragüense": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba nicaragüense": [
+            "NIO",
+            "NIC"
+        ],
+        "کوردوبا نیکاراگوئه": [
+            "NIO",
+            "NIC"
+        ],
+        "cordoba nicaraguayen": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba nicaraguayen": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba nicaraguéen": [
+            "NIO",
+            "NIC"
+        ],
+        "nikaragvanska córdoba": [
+            "NIO",
+            "NIC"
+        ],
+        "100ドル紙幣": [
+            "NIO",
+            "NIC"
+        ],
+        "コルドバ・オロ": [
+            "NIO",
+            "NIC"
+        ],
+        "nicaraguaanse cordoba": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba ouro": [
+            "NIO",
+            "NIC"
+        ],
+        "córdoba nicaraguano": [
+            "NIO",
+            "NIC"
+        ],
+        "валюта никарагуа": [
+            "NIO",
+            "NIC"
+        ],
+        "золотая кордоба": [
+            "NIO",
+            "NIC"
+        ],
+        "кордоба": [
+            "NIO",
+            "NIC"
+        ],
+        "кордобас": [
+            "NIO",
+            "NIC"
+        ],
+        "новая никарагуанская кордоба": [
+            "NIO",
+            "NIC"
+        ],
+        "никарагванска златна кордоба": [
+            "NIO",
+            "NIC"
+        ],
+        "никарагванска кордоба оро": [
+            "NIO",
+            "NIC"
+        ],
+        "nicaraguansk córdoba": [
+            "NIO",
+            "NIC"
+        ],
+        "nikaragua kordobası": [
+            "NIO",
+            "NIC"
+        ],
+        "нікарагуанська кордова": [
+            "NIO",
+            "NIC"
+        ],
         "كرونه نروجية": "NOK",
         "nok": "NOK",
         "corona de noruega": "NOK",
@@ -7049,6 +7460,7 @@
         "dollar de nouvelle zélande": "NZD",
         "dollar néozélandais": "NZD",
         "דולר ניו זילנד": "NZD",
+        "$nz": "NZD",
         "nzドル": "NZD",
         "ニュージーランドドル": "NZD",
         "dólar da nova zelândia": "NZD",
@@ -7112,9 +7524,9 @@
         "neuer sol": "PEN",
         "peruanischer nuevo sol": "PEN",
         "νέο σολ περού": "PEN",
+        "pen": "PEN",
         "nova suno": "PEN",
         "nuevo sol peruano": "PEN",
-        "pen": "PEN",
         "s/": "PEN",
         "s/.": "PEN",
         "sol peruano": "PEN",
@@ -7122,6 +7534,7 @@
         "perun nuevo sol": "PEN",
         "nouveau sol": "PEN",
         "perui új sol": "PEN",
+        "nuevo sol peruviano": "PEN",
         "nuovo sol": "PEN",
         "sol novo": "PEN",
         "moeda peruana": "PEN",
@@ -7147,8 +7560,9 @@
         "новогвинејска кина": "PGK",
         "papuansk kina": "PGK",
         "валюта папуа — нової гвінеї": "PGK",
-        "بيسو": "PHP",
+        "بيزو فلبيني": "PHP",
         "₱": "PHP",
+        "بيسو": "PHP",
         "php": "PHP",
         "philippine piso": "PHP",
         "piso": "PHP",
@@ -7175,58 +7589,214 @@
         "רופי פקיסטני ": "PKR",
         "pakistaanse rupee": "PKR",
         "валюта пакистана": "PKR",
-        "زلوتي": "PLN",
-        "zł": "PLN",
-        "полска злотаполска злота": "PLN",
-        "zloty": "PLN",
-        "zloty polonès": "PLN",
-        "złoty polonès": "PLN",
-        "pln": "PLN",
-        "polský zlotý": "PLN",
-        "polský złoty": "PLN",
-        "polsk zloty": "PLN",
-        "polsk złoty": "PLN",
-        "polnischer zloty": "PLN",
-        "polnischer złoty": "PLN",
-        "zlote": "PLN",
-        "zloti": "PLN",
-        "zlotych": "PLN",
-        "złote": "PLN",
-        "złotych": "PLN",
-        "polish zloty": "PLN",
-        "pola zloto": "PLN",
-        "sloti": "PLN",
-        "zloty polaco": "PLN",
-        "zlott": "PLN",
-        "زلوتی": "PLN",
-        "puolan złoty": "PLN",
-        "zloty polonais": "PLN",
-        "złoty polonais": "PLN",
-        "זלוטי פולני": "PLN",
-        "poljski zloti": "PLN",
-        "zloty polonese": "PLN",
-        "złoty polacco": "PLN",
-        "zloty polacco": "PLN",
-        "zl": "PLN",
-        "ズオチ": "PLN",
-        "ズロチ": "PLN",
-        "ポーランド・ズウォティ": "PLN",
-        "poolse zloty": "PLN",
-        "polski złoty": "PLN",
-        "zlóti": "PLN",
-        "zlóti polaco": "PLN",
-        "gros": "PLN",
-        "grosz": "PLN",
-        "валюта польши": "PLN",
-        "злотый": "PLN",
-        "злот": "PLN",
-        "போலந்திய ஸ்வாட்டெ": "PLN",
-        "போலந்து ஸ்வாட்டே": "PLN",
-        "போலிய ஸ்வாட்டே": "PLN",
-        "польський злотий": "PLN",
-        "波蘭茲羅提": "PLN",
-        "兹罗提": "PLN",
-        "茲羅提": "PLN",
+        "زلوتي": [
+            "PLZ",
+            "PLN"
+        ],
+        "zł": [
+            "PLZ",
+            "PLN"
+        ],
+        "полска злотаполска злота": [
+            "PLZ",
+            "PLN"
+        ],
+        "zloty": [
+            "PLZ",
+            "PLN"
+        ],
+        "zloty polonès": [
+            "PLZ",
+            "PLN"
+        ],
+        "złoty polonès": [
+            "PLZ",
+            "PLN"
+        ],
+        "pln": [
+            "PLZ",
+            "PLN"
+        ],
+        "polský zlotý": [
+            "PLZ",
+            "PLN"
+        ],
+        "polský złoty": [
+            "PLZ",
+            "PLN"
+        ],
+        "polsk zloty": [
+            "PLZ",
+            "PLN"
+        ],
+        "polsk złoty": [
+            "PLZ",
+            "PLN"
+        ],
+        "polnischer zloty": [
+            "PLZ",
+            "PLN"
+        ],
+        "polnischer złoty": [
+            "PLZ",
+            "PLN"
+        ],
+        "zlote": [
+            "PLZ",
+            "PLN"
+        ],
+        "zloti": [
+            "PLZ",
+            "PLN"
+        ],
+        "zlotych": [
+            "PLZ",
+            "PLN"
+        ],
+        "złote": [
+            "PLZ",
+            "PLN"
+        ],
+        "złotych": [
+            "PLZ",
+            "PLN"
+        ],
+        "polish zloty": [
+            "PLZ",
+            "PLN"
+        ],
+        "pola zloto": [
+            "PLZ",
+            "PLN"
+        ],
+        "sloti": [
+            "PLZ",
+            "PLN"
+        ],
+        "zloty polaco": [
+            "PLZ",
+            "PLN"
+        ],
+        "zlott": [
+            "PLZ",
+            "PLN"
+        ],
+        "زلوتی": [
+            "PLZ",
+            "PLN"
+        ],
+        "puolan złoty": [
+            "PLZ",
+            "PLN"
+        ],
+        "zloty polonais": [
+            "PLZ",
+            "PLN"
+        ],
+        "złoty polonais": [
+            "PLZ",
+            "PLN"
+        ],
+        "זלוטי פולני": [
+            "PLZ",
+            "PLN"
+        ],
+        "poljski zloti": [
+            "PLZ",
+            "PLN"
+        ],
+        "zloty polonese": [
+            "PLZ",
+            "PLN"
+        ],
+        "złoty polacco": [
+            "PLZ",
+            "PLN"
+        ],
+        "zloty polacco": [
+            "PLZ",
+            "PLN"
+        ],
+        "zl": [
+            "PLZ",
+            "PLN"
+        ],
+        "ズオチ": [
+            "PLZ",
+            "PLN"
+        ],
+        "ズロチ": [
+            "PLZ",
+            "PLN"
+        ],
+        "ポーランド・ズウォティ": [
+            "PLZ",
+            "PLN"
+        ],
+        "poolse zloty": [
+            "PLZ",
+            "PLN"
+        ],
+        "polski złoty": [
+            "PLZ",
+            "PLN"
+        ],
+        "zlóti": [
+            "PLZ",
+            "PLN"
+        ],
+        "zlóti polaco": [
+            "PLZ",
+            "PLN"
+        ],
+        "gros": [
+            "PLZ",
+            "PLN"
+        ],
+        "grosz": [
+            "PLZ",
+            "PLN"
+        ],
+        "валюта польши": [
+            "PLZ",
+            "PLN"
+        ],
+        "злотый": [
+            "PLZ",
+            "PLN"
+        ],
+        "злот": [
+            "PLZ",
+            "PLN"
+        ],
+        "போலந்திய ஸ்வாட்டெ": [
+            "PLZ",
+            "PLN"
+        ],
+        "போலந்து ஸ்வாட்டே": [
+            "PLZ",
+            "PLN"
+        ],
+        "போலிய ஸ்வாட்டே": [
+            "PLZ",
+            "PLN"
+        ],
+        "польський злотий": [
+            "PLZ",
+            "PLN"
+        ],
+        "波蘭茲羅提": [
+            "PLZ",
+            "PLN"
+        ],
+        "兹罗提": [
+            "PLZ",
+            "PLN"
+        ],
+        "茲羅提": [
+            "PLZ",
+            "PLN"
+        ],
         "غواراني": "PYG",
         "₲": "PYG",
         "paraguayský guarani": "PYG",
@@ -7414,12 +7984,12 @@
         "dolar salomonense": "SBD",
         "dólar salomonense": "SBD",
         "dollar des iles salomon": "SBD",
+        "si$": "SBD",
         "dollaro delle isole salomone": "SBD",
         "ソロモン諸島・ドル": "SBD",
         "dolar de las illas salamon": "SBD",
         "валюта соломоновых островов": "SBD",
         "долар соломонских острва": "SBD",
-        "si$": "SBD",
         "SI$": "SBD",
         "SRe": "SCR",
         "seychellisk rupee": "SCR",
@@ -7511,18 +8081,58 @@
         "shp": "SHP",
         "sh£": "SHP",
         "聖赫倫那鎊": "SHP",
-        "Le": "SLL",
-        "λεόνε": "SLL",
-        "sll": "SLL",
-        "leone sierra léonais": "SLL",
-        "leone della sierra leone": "SLL",
-        "シエラレオネの通貨": "SLL",
-        "シエラレオネ・レオン": "SLL",
-        "レオネ": "SLL",
-        "leone serra leonino": "SLL",
-        "леоне сьерра леоне": "SLL",
-        "сијералеонске леоне": "SLL",
-        "sierraleonsk leone": "SLL",
+        "Le": [
+            "SLL",
+            "SLE"
+        ],
+        "λεόνε": [
+            "SLL",
+            "SLE"
+        ],
+        "sle": [
+            "SLL",
+            "SLE"
+        ],
+        "sll": [
+            "SLL",
+            "SLE"
+        ],
+        "leone sierra léonais": [
+            "SLL",
+            "SLE"
+        ],
+        "leone della sierra leone": [
+            "SLL",
+            "SLE"
+        ],
+        "シエラレオネの通貨": [
+            "SLL",
+            "SLE"
+        ],
+        "シエラレオネ・レオン": [
+            "SLL",
+            "SLE"
+        ],
+        "レオネ": [
+            "SLL",
+            "SLE"
+        ],
+        "leone serra leonino": [
+            "SLL",
+            "SLE"
+        ],
+        "леоне сьерра леоне": [
+            "SLL",
+            "SLE"
+        ],
+        "сијералеонске леоне": [
+            "SLL",
+            "SLE"
+        ],
+        "sierraleonsk leone": [
+            "SLL",
+            "SLE"
+        ],
         "Sh.So.": "SOS",
         "xíling de somàlia": "SOS",
         "σελίνι της σομαλίας": "SOS",
@@ -7564,6 +8174,8 @@
         "dólar surinames": "SRD",
         "dollar du surinam": "SRD",
         "dollar surinamien": "SRD",
+        "sr$": "SRD",
+        "sur$": "SRD",
         "dollaro del suriname": "SRD",
         "スリナムドル": "SRD",
         "dólar surinamense": "SRD",
@@ -7571,7 +8183,6 @@
         "валюта суринама": "SRD",
         "суринамски гилдер": "SRD",
         "суринамски гулден": "SRD",
-        "sr$": "SRD",
         "苏利南元": "SRD",
         "苏里南元": "SRD",
         "蘇里南元": "SRD",
@@ -7730,12 +8341,15 @@
         "tadzjikistansk somoni": "TJS",
         "сомоні": "TJS",
         "塔吉克索莫尼": "TJS",
-        "T": "TMT",
+        "TMT": "TMT",
         "туркменски манат": "TMT",
         "manat de turkmenistan": "TMT",
         "manat del turkmenistan": "TMT",
         "teňňe": "TMT",
         "μανάτ τουρκμενίας": "TMT",
+        "turkmenistan new manat": "TMT",
+        "tmt": "TMT",
+        "turkmenistani new manat": "TMT",
         "manat turkmene": "TMT",
         "manat de turkmenistán": "TMT",
         "מנאט טורקמני חדש": "TMT",
@@ -7745,7 +8359,6 @@
         "manat turcmèn": "TMT",
         "manate do turcomenistão": "TMT",
         "manatul turkmen": "TMT",
-        "tmt": "TMT",
         "валюта туркмении": "TMT",
         "новый манат": "TMT",
         "новый туркменский манат": "TMT",
@@ -7829,6 +8442,7 @@
         "neue türkische lira": "TRY",
         "ytl": "TRY",
         "yeni kuruş": "TRY",
+        "yeni türk lirası": "TRY",
         "λίρα τουρκίας": "TRY",
         "νέα τουρκική λίρα": "TRY",
         "new turkish lira": "TRY",
@@ -7860,9 +8474,6 @@
         "турска нова лира": "TRY",
         "turkiska lira": "TRY",
         "新土耳其里拉": "TRY",
-        "YTL": "TRY",
-        "second turkish lira": "TRY",
-        "第二版土耳其里拉": "TRY",
         "TT$": "TTD",
         "тринидадски и тобагски долар": "TTD",
         "dòlar de trinitat": "TTD",
@@ -7877,6 +8488,7 @@
         "trinidad ja tobagon dollari": "TTD",
         "dollar de trinidad et tobago": "TTD",
         "dollar trinidadien": "TTD",
+        "ttd": "TTD",
         "trinidad en tobago dollar": "TTD",
         "dolar trynidadzki": "TTD",
         "dólar de trindade e tabago": "TTD",
@@ -7889,7 +8501,6 @@
         "тринидадский доллар": "TTD",
         "trinidadsko tobažský dolár": "TTD",
         "тринидад и тобаго долар": "TTD",
-        "ttd": "TTD",
         "долар тринідаду та тобаго": "TTD",
         "千里達托貝哥元": "TTD",
         "nt$": "TWD",
@@ -8052,6 +8663,10 @@
         "dollar des états unis": "USD",
         "dollar étatsunien": "USD",
         "דולר אמריקני": "USD",
+        "דולר ארה\"ב": "USD",
+        "דולר ארצות הברית": "USD",
+        "u$": "USD",
+        "usa dollár": "USD",
         "ドル": "USD",
         "米ドル": "USD",
         "dólar americano": "USD",
@@ -8074,6 +8689,9 @@
         "đồng bạc mỹ": "USD",
         "美金": "USD",
         "us dollar [next day]": "USN",
+        "uruguay peso en unidades indexadas": "UYI",
+        "ui": "UYI",
+        "uyi": "UYI",
         "بيزو أوروغواني": "UYU",
         "$U": "UYU",
         "peso d'uruguai": "UYU",
@@ -8099,7 +8717,7 @@
         "up": "UYW",
         "uyw": "UYW",
         "سوم أوزبيكستاني": "UZS",
-        "So'm": "UZS",
+        "Soʻm": "UZS",
         "som d'uzbekistan": "UZS",
         "som de l'uzbekistan": "UZS",
         "uzbecký som": "UZS",
@@ -8133,18 +8751,38 @@
         "узбецький сом": "UZS",
         "烏茲別克索姆": "UZS",
         "苏姆": "UZS",
-        "hard bolívar": "VEF",
-        "bs.f": "VEF",
-        "Bs.F": "VEF",
-        "vef": "VEF",
-        "bolívar fuerte": "VEF",
-        "بوليفار السيادي": "VES",
-        "Bs.S": "VES",
-        "bs.s": "VES",
-        "ves": "VES",
-        "bolivar": "VES",
-        "боливар": "VES",
-        "боливар соберано": "VES",
+        "بوليفار السيادي": [
+            "VES",
+            "VED"
+        ],
+        "Bs.S": [
+            "VES",
+            "VED"
+        ],
+        "bs.s": [
+            "VES",
+            "VED"
+        ],
+        "ved": [
+            "VES",
+            "VED"
+        ],
+        "ves": [
+            "VES",
+            "VED"
+        ],
+        "bolivar": [
+            "VES",
+            "VED"
+        ],
+        "боливар": [
+            "VES",
+            "VED"
+        ],
+        "боливар соберано": [
+            "VES",
+            "VED"
+        ],
         "دونغ": "VND",
         "₫": "VND",
         "vnd": "VND",
@@ -8205,6 +8843,7 @@
         "samoansk tala": "WST",
         "塔拉": "WST",
         "فرنك س ف ا وسط أفريقيا": "XAF",
+        "فرنك وسط أفريقي": "XAF",
         "xaf": "XAF",
         "frank beac/cfa": "XAF",
         "ffranc canol affrica": "XAF",
@@ -8236,18 +8875,47 @@
         "валюта чада": "XAF",
         "валюта экваториальной гвинеи": "XAF",
         "франк кфа веас": "XAF",
+        "центральноафриканский франк кфа": "XAF",
         "centralafrikansk cfa franc": "XAF",
         "fcfa": "XAF",
         "மத்திய ஆப்பிரிக்க சி.எஃப்.ஏ பிராங்க்": "XAF",
         "orta afrika cfa frankı": "XAF",
         "cfa franc trung phi": "XAF",
         "中非法郎": "XAF",
-        "silver": "XAG",
         "xag": "XAG",
+        "silver": "XAG",
         "silver as currency": "XAG",
-        "gold": "XAU",
+        "la plata como inversión": "XAG",
+        "la plata como inversion": "XAG",
+        "argent d'investissement": "XAG",
+        "argent en tant qu'investissement": "XAG",
+        "投資対象としての銀": "XAG",
+        "bạc như một khoản đầu tư": "XAG",
+        "الاستثمار في الذهب": "XAU",
+        "anlagegold": "XAU",
         "xau": "XAU",
+        "gold": "XAU",
         "gold as currency": "XAU",
+        "kultaan sijoittaminen": "XAU",
+        "arany mint befektetés": "XAU",
+        "az arany mint befektetés": "XAU",
+        "guld som investering": "XAU",
+        "vàng như một kênh đầu tư": "XAU",
+        "eurco": "XBA",
+        "xba": "XBA",
+        "emu 6 bond markets unit european monetary unit": "XBB",
+        "e.m.u. 6": "XBB",
+        "emu 6": "XBB",
+        "european unit of account currency fund 6": "XBB",
+        "xbb": "XBB",
+        "bond markets unit european unit of account 9": "XBC",
+        "e.u.a. 9": "XBC",
+        "eua 9": "XBC",
+        "xbc": "XBC",
+        "bond markets unit european unit of account 17": "XBD",
+        "e.u.a. 17": "XBD",
+        "eua 17": "XBD",
+        "xbd": "XBD",
         "EC$": "XCD",
         "eastern caribbean currency union": "XCD",
         "východokaribská měnová unie": "XCD",
@@ -8299,25 +8967,7 @@
         "спз": "XDR",
         "zpč": "XDR",
         "special drawings right": "XDR",
-        "₠": "XEU",
-        "европейска валутна единица": "XEU",
-        "unitat de compte europea": "XEU",
-        "xeu": "XEU",
-        "ελμ": "XEU",
-        "eŭropa monunuo": "XEU",
-        "e.c.u.": "XEU",
-        "unité de compte européen": "XEU",
-        "unité de compte européenne": "XEU",
-        "unité monétaire européenne": "XEU",
-        "unidade monetaria europea": "XEU",
-        "יחידת מטבע אירופי": "XEU",
-        "ヨーロッパ通貨単位": "XEU",
-        "écu": "XEU",
-        "unitate monetară europeană": "XEU",
-        "европейская валютная единица": "XEU",
-        "europeiska valutaenhet": "XEU",
-        "ekü": "XEU",
-        "歐洲通貨單位": "XEU",
+        "فرنك غرب أفريقي": "XOF",
         "فرنك س ف ا غرب أفريقيا": "XOF",
         "F": "XOF",
         "xof": "XOF",
@@ -8350,6 +9000,7 @@
         "валюта сенегала": "XOF",
         "валюта того": "XOF",
         "западно африканский франк кфа": "XOF",
+        "западноафриканский франк кфа": "XOF",
         "франк африканского финансового сообщества": "XOF",
         "франк кфа всеао": "XOF",
         "frank bceao/cfa": "XOF",
@@ -8358,8 +9009,8 @@
         "cfa franc tây phi": "XOF",
         "西法": "XOF",
         "西非法郎": "XOF",
-        "palladium": "XPD",
         "xpd": "XPD",
+        "palladium": "XPD",
         "palladium as currency": "XPD",
         "xpf": "XPF",
         "pazifik franc": "XPF",
@@ -8380,8 +9031,8 @@
         "франк кфп": "XPF",
         "французское тихоокеанское банковское соглашение": "XPF",
         "француски тихоокеански франак": "XPF",
-        "platinum": "XPT",
         "xpt": "XPT",
+        "platinum": "XPT",
         "platinum as currency": "XPT",
         "platine": "XPT",
         "платина": "XPT",
@@ -8391,8 +9042,14 @@
         "スクレ": "XSU",
         "единая система региональных взаиморасчетов": "XSU",
         "единая система региональных взаиморасчётов": "XSU",
+        "iso 4217 test code": [
+            "XXX",
+            "XTS"
+        ],
+        "xts": "XTS",
         "adb unit of account": "XUA",
         "xua": "XUA",
+        "xxx": "XXX",
         "الريال اليمني": "YER",
         "﷼'": "YER",
         "rial de iemen": "YER",
@@ -8417,6 +9074,7 @@
         "јеменски риал": "YER",
         "yemenitisk rial": "YER",
         "叶门里亚尔": "YER",
+        "راند": "ZAR",
         "R": "ZAR",
         "rand de sud àfrica": "ZAR",
         "rand sud africà": "ZAR",
@@ -8459,10 +9117,14 @@
         "kwacha zambiana": "ZMW",
         "валюта замбии": "ZMW",
         "квача замбии": "ZMW",
+        "zambiya kwachası": "ZMW",
         "ZK": "ZMW",
-        "zimbabwe dollar": "ZWL",
-        "rtgs": "ZWL",
+        "Z$": "ZWL",
         "rtgs$": "ZWL",
+        "z$": "ZWL",
+        "zwl": "ZWL",
+        "zimdollar": "ZWL",
+        "fifth zimbabwean dollar": "ZWL",
         "rtgs元": "ZWL",
         "pesos": [
             "MXN"
@@ -8500,6 +9162,43 @@
             "uk": "дирхам ОАЕ",
             "zh": "阿聯酋迪爾汗",
             "da": "emirata arabiske dirham"
+        },
+        "AFA": {
+            "ar": "أفغاني",
+            "bg": "Афганистански афган",
+            "ca": "afgani",
+            "cs": "afghánský afghání",
+            "da": "Afghani",
+            "de": "Afghani",
+            "el": "Αφγάνι",
+            "en": "Afghan afghani",
+            "eo": "afgana afganio",
+            "es": "afgani afgano",
+            "et": "Afganistani afgaani",
+            "eu": "Afgani",
+            "fa": "افغانی",
+            "fi": "Afganistanin afgaani",
+            "fr": "afghani",
+            "gl": "afgani",
+            "he": "אפגני",
+            "hr": "Afganistanski afgani",
+            "hu": "afgán afgáni",
+            "it": "afghani afgano",
+            "ja": "アフガニ",
+            "lt": "Afganis",
+            "nl": "Afghaanse afghani",
+            "oc": "Afgani",
+            "pl": "Afgani",
+            "pt": "afegane",
+            "ru": "афгани",
+            "sl": "Afganistanski afgani",
+            "sr": "авганистански авгани",
+            "sv": "Afghani",
+            "tr": "Afgani",
+            "uk": "Афгані",
+            "zh": "阿富汗尼",
+            "ro": "afgan afgan",
+            "ta": "ஆப்கான் ஆப்கானி"
         },
         "AFN": {
             "ar": "أفغاني",
@@ -8802,7 +9501,7 @@
             "eu": "Manat azerbaijandar",
             "fa": "منات جمهوری آذربایجان",
             "fi": "Azerbaidžanin manat",
-            "fr": "Manat azerbaïdjanais",
+            "fr": "manat azerbaïdjanais",
             "gl": "Manat acerbaixano",
             "he": "מאנאט אזרבייג'ני",
             "hr": "Azerbajdžanski manat",
@@ -9132,7 +9831,8 @@
             "ta": "பொலிவியானோ"
         },
         "BOV": {
-            "es": "Boliviano con mantenimiento de valor respecto al dólar estadounidense"
+            "es": "Boliviano con mantenimiento de valor respecto al dólar estadounidense",
+            "en": "MVDOL"
         },
         "BRL": {
             "ar": "ريال برازيلي",
@@ -9273,7 +9973,7 @@
             "sr": "боцванска пула",
             "sv": "Pula",
             "tr": "Botsvana pulası",
-            "uk": "Ботсванська пула",
+            "uk": "ботсванська пула",
             "zh": "波札那普拉",
             "oc": "Pula",
             "ta": "போட்ஸ்வானா பூலா"
@@ -9537,7 +10237,7 @@
             "it": "renminbi cinese",
             "ja": "人民幣",
             "lt": "Juanis",
-            "nl": "Chinese renminbi",
+            "nl": "renminbi",
             "oc": "Renminbi",
             "pl": "Renminbi",
             "pt": "yuan",
@@ -10136,7 +10836,7 @@
             "sr": "грузијски лари",
             "sv": "Georgiska lari",
             "ta": "ஜார்ஜிய லாரி",
-            "tr": "Gürcistan larisi",
+            "tr": "Gürcü larisi",
             "uk": "Ларі",
             "zh": "格鲁吉亚拉里",
             "oc": "Lari"
@@ -10205,6 +10905,7 @@
             "sr": "гибралтарска фунта",
             "sv": "Gibraltarpund",
             "ta": "கிப்ரால்ட்டர் பவுண்டு",
+            "tr": "Cebelitarık sterlini",
             "uk": "Гібралтарський фунт",
             "vi": "Bảng Gibraltar",
             "zh": "直布羅陀鎊",
@@ -10407,46 +11108,6 @@
             "uk": "Гондураська лемпіра",
             "zh": "宏都拉斯倫皮拉",
             "cy": "Lempira Hondwraidd"
-        },
-        "HRK": {
-            "ar": "كونا كرواتية",
-            "bg": "Хърватска куна",
-            "ca": "kuna",
-            "cs": "Chorvatská kuna",
-            "da": "Kuna",
-            "de": "kroatische Kuna",
-            "el": "Κούνα Κροατίας",
-            "en": "Croatian kuna",
-            "eo": "kroata kunao",
-            "es": "kuna croata",
-            "et": "Kuna",
-            "fa": "کونا",
-            "fi": "Kroatian kuna",
-            "fr": "kuna croate",
-            "gl": "Kuna croata",
-            "he": "קונה",
-            "hr": "hrvatska kuna",
-            "hu": "horvát kuna",
-            "it": "kuna croata",
-            "ja": "クーナ",
-            "lt": "Kroatijos kuna",
-            "nl": "Kroatische kuna",
-            "pl": "kuna",
-            "pt": "kuna croata",
-            "ro": "Euro",
-            "ru": "хорватская куна",
-            "sk": "Chorvátska kuna",
-            "sl": "hrvaška kuna",
-            "sr": "хрватска куна",
-            "sv": "Kroatisk kuna",
-            "ta": "குனா",
-            "tr": "Hırvatistan kunası",
-            "uk": "хорватська куна",
-            "zh": "克羅埃西亞庫納",
-            "cy": "kuna Croatia",
-            "ia": "kuna croate",
-            "oc": "kuna",
-            "vi": "Kuna Croatia"
         },
         "HTG": {
             "ar": "جوردة هايتية",
@@ -10779,7 +11440,7 @@
             "eu": "Jordaniako dinar",
             "fa": "دینار اردن",
             "fi": "Jordanian dinaari",
-            "fr": "dinar jordanien",
+            "fr": "Dinar jordanien",
             "he": "דינר ירדני",
             "hr": "Jordanski dinar",
             "hu": "jordán dinár",
@@ -10869,7 +11530,8 @@
             "sv": "Kenyansk shilling",
             "tr": "Kenya şilini",
             "uk": "кенійський шилінг",
-            "zh": "肯亞先令"
+            "zh": "肯亞先令",
+            "cy": "swllt Cenia"
         },
         "KGS": {
             "ar": "سوم قرغيزستاني",
@@ -11015,6 +11677,7 @@
             "fi": "Etelä-Korean won",
             "fr": "won sud-coréen",
             "gl": "Won surcoreano",
+            "he": "וון דרום קוריאני",
             "hr": "Južnokorejski von",
             "hu": "dél-koreai von",
             "it": "won sudcoreano",
@@ -11032,7 +11695,6 @@
             "uk": "південнокорейська вона",
             "vi": "Won Hàn Quốc",
             "zh": "韓圓",
-            "he": "וון דרום קוריאני",
             "oc": "Won sud-corean"
         },
         "KWD": {
@@ -11385,7 +12047,7 @@
             "nl": "Moldavische leu",
             "pl": "lej Mołdawii",
             "pt": "leu moldávio",
-            "ro": "Leu moldovenesc",
+            "ro": "leu moldovenesc",
             "ru": "молдавский лей",
             "sk": "Moldavský lei",
             "sl": "Moldavski lej",
@@ -11393,7 +12055,7 @@
             "sv": "Moldavisk leu",
             "ta": "மல்டோவிய லியு",
             "tr": "Moldova leyi",
-            "uk": "Молдовський лей",
+            "uk": "молдовський лей",
             "zh": "摩爾多瓦列伊",
             "ia": "leu moldave",
             "oc": "Leu moldau"
@@ -11519,7 +12181,7 @@
             "lt": "Tugrikas",
             "nl": "Mongoolse tugrik",
             "pl": "tugrik",
-            "pt": "Tugrik",
+            "pt": "tugrik",
             "ru": "монгольский тугрик",
             "sk": "Mongolský tugrik",
             "sr": "монголски тугрик",
@@ -11528,7 +12190,8 @@
             "uk": "Монгольський тугрик",
             "vi": "Tögrög",
             "zh": "蒙古图格里克",
-            "cy": "tögrög Mongolia"
+            "cy": "tögrög Mongolia",
+            "sl": "tugrik"
         },
         "MOP": {
             "ar": "باتاكا ماكاوية",
@@ -11560,35 +12223,6 @@
             "vi": "Pataca Macau",
             "zh": "澳門幣",
             "sr": "макаонска патака"
-        },
-        "MRO": {
-            "fr": "Ouguiya",
-            "ca": "Ouguiya",
-            "cs": "Ouguiya",
-            "cy": "Ouguiya",
-            "da": "Ouguiya",
-            "de": "Ouguiya",
-            "en": "Ouguiya (1973-2017)",
-            "eo": "Ouguiya",
-            "es": "Ouguiya",
-            "et": "Ouguiya",
-            "eu": "Ouguiya",
-            "fi": "Ouguiya",
-            "gl": "Ouguiya",
-            "hr": "Ouguiya",
-            "hu": "Ouguiya (1973-2017)",
-            "ia": "Ouguiya",
-            "it": "Ouguiya",
-            "lt": "Ouguiya",
-            "nl": "Ouguiya",
-            "oc": "Ouguiya",
-            "pl": "Ouguiya",
-            "pt": "Ouguiya",
-            "ro": "Ouguiya",
-            "sk": "Ouguiya",
-            "sv": "Ouguiya (1973-2017)",
-            "tr": "Ouguiya",
-            "vi": "Ouguiya"
         },
         "MRU": {
             "ar": "أوقية موريتانية",
@@ -11884,6 +12518,39 @@
             "zh": "奈及利亞奈拉",
             "oc": "Naira"
         },
+        "NIC": {
+            "ar": "كوردبا نيكاراغوا",
+            "bg": "Никарагуанска кордоба",
+            "ca": "córdoba",
+            "cs": "Nikaragujská córdoba",
+            "de": "Córdoba Oro",
+            "el": "Κόρδοβα Νικαράγουας",
+            "en": "Nicaraguan córdoba",
+            "eo": "nikaragva kordovo",
+            "es": "córdoba",
+            "eu": "Córdoba",
+            "fa": "کوردوبا نیکاراگوئه",
+            "fi": "Nicaraguan córdoba",
+            "fr": "Córdoba",
+            "gl": "Córdoba",
+            "he": "קורדובה",
+            "hr": "Nikaragvanska kordoba",
+            "hu": "nicaraguai córdoba",
+            "it": "Córdoba nicaraguense",
+            "ja": "ニカラグア・コルドバ",
+            "lt": "Nikaragvos kordoba",
+            "nl": "Nicaraguaanse córdoba",
+            "pl": "Cordoba oro",
+            "pt": "Córdoba (moeda)",
+            "ro": "Córdoba",
+            "ru": "никарагуанская кордоба",
+            "sr": "никарагванска кордоба",
+            "sv": "Nicaraguansk córdoba",
+            "tr": "Kordoba",
+            "uk": "Нікарагуанська кордоба",
+            "zh": "尼加拉瓜科多巴",
+            "oc": "Córdoba (moneda)"
+        },
         "NIO": {
             "ar": "كوردبا نيكاراغوا",
             "bg": "Никарагуанска кордоба",
@@ -12070,7 +12737,7 @@
             "el": "Μπαλμπόα Παναμά",
             "en": "Panamanian balboa",
             "eo": "panama balboo",
-            "es": "Balboa",
+            "es": "balboa",
             "eu": "Balboa",
             "fa": "بالبوآ پاناما",
             "fi": "Panaman balboa",
@@ -12100,7 +12767,7 @@
             "da": "Nuevo sol",
             "de": "Nuevo Sol",
             "el": "Νέο Σολ Περού",
-            "en": "Nuevo Sol",
+            "en": "Nuevo sol",
             "eo": "perua nova suno",
             "es": "sol",
             "eu": "Sol",
@@ -12265,6 +12932,45 @@
             "ia": "zloty polonese",
             "oc": "złoty"
         },
+        "PLZ": {
+            "ar": "زلوتي بولندي",
+            "bg": "Полска злотаПолска злота",
+            "ca": "złoty",
+            "cs": "zlotý",
+            "da": "zloty",
+            "de": "Złoty",
+            "el": "Ζλότι",
+            "en": "zloty",
+            "eo": "pola zloto",
+            "es": "złoty",
+            "et": "Poola zlott",
+            "eu": "Złoty",
+            "fa": "زلوتی",
+            "fi": "Puolan złoty",
+            "fr": "złoty",
+            "gl": "Złoty",
+            "he": "זלוטי",
+            "hr": "Poljski zlot",
+            "hu": "lengyel złoty",
+            "it": "złoty polacco",
+            "ja": "ズウォティ",
+            "lt": "Zlotas",
+            "nl": "Poolse złoty",
+            "pl": "złoty",
+            "pt": "złoty",
+            "ro": "Zlot polonez",
+            "ru": "польский злотый",
+            "sk": "Poľský zlotý",
+            "sr": "пољски злот",
+            "sv": "Złoty",
+            "ta": "ஸ்வாட்டெ",
+            "tr": "Złoty",
+            "uk": "злотий",
+            "vi": "Złoty Ba Lan",
+            "zh": "波蘭茲羅提",
+            "ia": "zloty polonese",
+            "oc": "złoty"
+        },
         "PYG": {
             "ar": "غواراني باراغواي",
             "ca": "guaraní",
@@ -12312,7 +13018,7 @@
             "he": "ריאל קטרי",
             "hr": "Katarski rijal",
             "hu": "katari riál",
-            "it": "riyal del Qatar",
+            "it": "riyal qatariota",
             "ja": "カタール・リヤル",
             "lt": "Kataro rialas",
             "nl": "Qatarese rial",
@@ -12707,6 +13413,38 @@
             "uk": "Фунт Святої Єлени",
             "zh": "圣赫勒拿镑"
         },
+        "SLE": {
+            "ar": "ليون سيراليوني",
+            "bg": "Леоне на Сиера Леоне",
+            "ca": "leone",
+            "cs": "sierraleonský leone",
+            "de": "Sierra-leonischer Leone",
+            "el": "Λεόνε της Σιέρα Λεόνε",
+            "en": "leone",
+            "eo": "sieraleona leono",
+            "es": "leone",
+            "fa": "لئون سیرالئون",
+            "fi": "Sierra Leonen leone",
+            "fr": "leone",
+            "gl": "Leone",
+            "he": "ליאון",
+            "hr": "Sijeraleonski leone",
+            "hu": "Sierra Leone-i leone",
+            "it": "leone sierraleonese",
+            "ja": "レオン (通貨)",
+            "lt": "Leonė",
+            "nl": "Sierra Leoonse leone",
+            "pl": "Leone",
+            "pt": "leone",
+            "ro": "Leone",
+            "ru": "леоне",
+            "sr": "сијералеонски леоне",
+            "sv": "Sierraleonsk Leone",
+            "tr": "Sierra Leone leonesi",
+            "uk": "Леоне",
+            "zh": "塞拉利昂利昂",
+            "oc": "Leone"
+        },
         "SLL": {
             "ar": "ليون سيراليوني",
             "bg": "Леоне на Сиера Леоне",
@@ -13006,7 +13744,7 @@
             "cs": "Turkmenský manat",
             "de": "Turkmenistan-Manat",
             "el": "Μανάτ του Τουρκμενιστάν",
-            "en": "Turkmenistan manat",
+            "en": "Turkmenistan new manat",
             "eo": "turkmena manato",
             "es": "manat turkmeno",
             "fa": "منات ترکمنستان",
@@ -13099,38 +13837,38 @@
             "bg": "Турска лира",
             "ca": "lira turca",
             "cs": "Turecká lira",
-            "cy": "Lira Twrcaidd Newydd",
+            "cy": "Lira Twrcaidd",
             "da": "tyrkisk lira",
             "de": "türkische Lira",
             "el": "Τουρκική λίρα",
-            "en": "New Turkish lira",
-            "eo": "nova turka liro",
+            "en": "Turkish lira",
+            "eo": "turka liro",
             "es": "lira turca",
             "et": "Türgi liir",
             "eu": "Turkiar lira",
-            "fa": "افزایش ارزش لیر ترکیه",
-            "fi": "Uusi Turkin liira",
-            "fr": "nouvelle livre turque",
+            "fa": "لیره جدید ترکیه",
+            "fi": "Turkin liira",
+            "fr": "livre turque",
             "gl": "Lira turca",
             "he": "לירה טורקית",
             "hr": "Turska lira",
             "hu": "török líra",
             "it": "lira turca",
-            "ja": "新トルコリラ",
+            "ja": "トルコ・リラ",
             "lt": "Turkijos lira",
-            "nl": "Nieuwe Turkse lira",
+            "nl": "Turkse lira",
             "pl": "lira turecka",
             "pt": "lira turca",
             "ro": "Liră turcească",
-            "ru": "новая турецкая лира",
+            "ru": "турецкая лира",
             "sk": "Turecká líra",
             "sr": "турска лира",
             "sv": "Turkisk lira",
             "ta": "துருக்கிய லிரா",
-            "tr": "Yeni Türk Lirası",
+            "tr": "Türk lirası",
             "uk": "Турецька ліра",
             "vi": "Lira Thổ Nhĩ Kỳ",
-            "zh": "第二版土耳其里拉",
+            "zh": "新土耳其里拉",
             "ia": "lira turc",
             "oc": "lira turca"
         },
@@ -13317,7 +14055,7 @@
             "fi": "Yhdysvaltain dollari",
             "fr": "dollar américain",
             "gl": "dólar estadounidense",
-            "he": "דולר אמריקני",
+            "he": "דולר אמריקאי",
             "hr": "Američki dolar",
             "hu": "amerikai dollár",
             "ia": "dollar statounitese",
@@ -13401,13 +14139,16 @@
             "uk": "Узбецький сом",
             "zh": "烏茲別克索姆"
         },
-        "VEF": {
-            "eu": "Bolivar fuerte",
-            "hr": "Venezuelanski bolivar fuerte",
-            "hu": "Venezuelai bolívar (2008)",
-            "lt": "Venesuelos fuerte bolivaras",
-            "en": "hard bolívar",
-            "es": "bolívar fuerte"
+        "VED": {
+            "en": "sovereign bolivar",
+            "es": "bolívar soberano",
+            "fr": "Bolivar souverain",
+            "hu": "venezuelai bolívar",
+            "ja": "ボリバル・ソベラノ",
+            "pt": "Bolívar soberano",
+            "ru": "Суверенный боливар",
+            "uk": "Суверенний Болівар",
+            "ar": "بوليفار السيادي"
         },
         "VES": {
             "en": "sovereign bolivar",
@@ -13520,7 +14261,7 @@
             "oc": "Tala"
         },
         "XAF": {
-            "ar": "فرنك وسط أفريقي",
+            "ar": "فرنك وسط إفريقي",
             "bg": "Централноафрикански CFA франк",
             "ca": "franc CFA de l'Àfrica Central",
             "cs": "Středoafrický frank",
@@ -13550,6 +14291,29 @@
             "nl": "Central African CFA franc",
             "sv": "Centralafrikansk CFA Franc",
             "ta": "மத்திய ஆப்பிரிக்க சி.எஃப்.ஏ பிராங்க்"
+        },
+        "XAG": {
+            "cs": "Investiční stříbro",
+            "de": "Silberpreis",
+            "en": "silver as an investment",
+            "es": "La plata como inversión",
+            "sv": "Silver som investering",
+            "vi": "Bạc như một khoản đầu tư",
+            "fr": "argent d'investissement",
+            "ja": "投資対象としての銀"
+        },
+        "XAU": {
+            "ar": "استثمار الذهب",
+            "cs": "Investiční zlato",
+            "de": "Gold als Kapitalanlage",
+            "en": "gold as an investment",
+            "fi": "Kultaan sijoittaminen",
+            "fr": "or d'investissement",
+            "hu": "befektetési arany",
+            "ja": "金投資",
+            "sv": "Investeringsguld",
+            "vi": "Kênh đầu tư vàng",
+            "zh": "黃金投資"
         },
         "XCD": {
             "ar": "دولار شرق الكاريبي",
@@ -13619,39 +14383,6 @@
             "eu": "igorpen eskubide bereziak",
             "ta": "Special drawings right"
         },
-        "XEU": {
-            "ar": "وحدة العملة الأوروبية",
-            "bg": "ЕКЮ",
-            "ca": "Unitat Monetària Europea",
-            "cs": "Evropská měnová jednotka",
-            "da": "European Currency Unit",
-            "de": "Europäische Währungseinheit",
-            "el": "Ευρωπαϊκή λογιστική μονάδα",
-            "en": "European Currency Unit",
-            "es": "Unidad Monetaria Europea",
-            "et": "ECU",
-            "eu": "Europako kontu-unitate",
-            "fa": "واحد ارزی اروپا",
-            "fi": "Euroopan valuuttayksikkö",
-            "fr": "European Currency Unit",
-            "gl": "ECU",
-            "he": "יחידת מטבע אירופית",
-            "hu": "Európai valutaegység",
-            "it": "Unità di conto europea",
-            "ja": "欧州通貨単位",
-            "lt": "Ekiu",
-            "nl": "Europese rekeneenheid",
-            "pl": "European Currency Unit",
-            "pt": "Unidade Monetária Europeia",
-            "ro": "ECU",
-            "ru": "ЭКЮ",
-            "sk": "Európska menová jednotka",
-            "sv": "Europeiska valutaenhet",
-            "tr": "ECU",
-            "uk": "Екю",
-            "zh": "歐洲通貨單位",
-            "eo": "Eŭropa Monunuo"
-        },
         "XOF": {
             "ar": "فرنك غرب أفريقي",
             "bg": "Западноафрикански CFA франк",
@@ -13682,6 +14413,10 @@
             "pl": "frank CFA",
             "sv": "CFA Franc",
             "ta": "மேற்கு ஆபிரிக்க சி.எஃப்.ஏ பிராங்க்"
+        },
+        "XPD": {
+            "de": "Palladiumpreis",
+            "en": "palladium as an investment"
         },
         "XPF": {
             "ar": "فرنك س ف ب",
@@ -13717,6 +14452,12 @@
             "he": "פרנק צרפתי",
             "oc": "Franc CFP",
             "sr": "француски тихоокеански франак"
+        },
+        "XPT": {
+            "de": "Platinpreis",
+            "en": "platinum as an investment",
+            "fr": "platine",
+            "ru": "платина"
         },
         "XSU": {
             "de": "SUCRE",
@@ -13768,7 +14509,7 @@
             "oc": "Rial de Iemèn"
         },
         "ZAR": {
-            "ar": "راند جنوب أفريقي",
+            "ar": "راند جنوب إفريقي",
             "bg": "Южноафрикански ранд",
             "ca": "rand",
             "cs": "Jihoafrický rand",
@@ -13836,12 +14577,16 @@
             "oc": "Kwacha zambian"
         },
         "ZWL": {
-            "en": "Zimbabwe dollar",
+            "en": "Zimbabwean dollar",
             "es": "Dólar RTGS",
             "fr": "Real Time Gross Settlement dollar",
             "it": "dollaro RTGS",
             "ja": "RTGSドル",
+            "pt": "Dólar do Zimbábue (2019–presente)",
             "zh": "RTGS元"
+        },
+        "CHE": {
+            "en": "WIR Euro"
         },
         "CHW": {
             "de": "WIR Franken",
@@ -13855,25 +14600,32 @@
         "USN": {
             "en": "US Dollar (Next day)"
         },
+        "UYI": {
+            "en": "Uruguay peso en Unidades Indexadas"
+        },
         "UYW": {
             "en": "Unidad Previsional"
         },
-        "XAG": {
-            "en": "silver"
+        "XBA": {
+            "en": "EURCO"
         },
-        "XAU": {
-            "en": "gold"
+        "XBB": {
+            "en": "EMU-6 Bond markets Unit European Monetary Unit"
         },
-        "XPD": {
-            "en": "palladium"
+        "XBC": {
+            "en": "Bond markets Unit European Unit of Account 9"
         },
-        "XPT": {
-            "en": "platinum",
-            "fr": "platine",
-            "ru": "платина"
+        "XBD": {
+            "en": "Bond Markets Unit European Unit of Account 17"
+        },
+        "XTS": {
+            "en": "ISO 4217 test code"
         },
         "XUA": {
             "en": "ADB Unit of Account"
+        },
+        "XXX": {
+            "en": "ISO 4217 test code"
         }
     }
 }
